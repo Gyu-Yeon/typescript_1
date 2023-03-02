@@ -3,3 +3,4 @@ lesson 1: <br/>
 lesson 2: while loop = 언제 끝날지 모를 때 사용.<br/>
 lesson 3: Brute Force = 무차별 대입 공격 한 후에, optimize solution 찾기. <br/>
 lesson 4: problem 마다 helper function이 필요한 지 생각해보기. <br/>
+lesson 5: for in = object를 loop에 돌릴 때 사용. for (let property of object) {console.log(`${property}: ${object[property]}`)}
